@@ -17,8 +17,11 @@ Only one image was overlaid on top of the matrix to show the map in the game win
 
 ## Colors paths
 The colors of the routes correspond to:
+
 White - Path from start coordinate to first target
+
 Gray - Path from first to second target
+
 Black - Path from second to third objective
 
 In this case there are 3 objectives, if more are added, more colors would have to be added to the list called colors of the create_path function. Or in any case you can modify the colors for the three routes in that same list.
