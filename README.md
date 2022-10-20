@@ -14,6 +14,6 @@ Given n coordinates (x,y) of the location of the targets where the rover needs t
 ## Map
 
 ## Chance the targets
-To change the coordinates of the objectives or add more, you must change the list called <b>objectives</b> at the beginning of the code as well as the list called points in the create_path function.
+To change the coordinates of the objectives or add more, you must change the list called <b>objectives</b> at the beginning of the code as well as the list called <b>points</b> in the <b>create_path</b> function.
 
 As well as you can change the coordinate of the initial position in start at the beginning of the code and starts in the create_path function
