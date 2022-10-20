@@ -10,3 +10,10 @@ Given n coordinates (x,y) of the location of the targets where the rover needs t
   <li>pathfinding 1.0.1</li>
   <li>pygame 2.1.2</li>
 </ul>
+
+## Map
+
+## Chance the targets
+To change the coordinates of the objectives or add more, you must change the list called <b>objectives</b> at the beginning of the code as well as the list called points in the create_path function.
+
+As well as you can change the coordinate of the initial position in start at the beginning of the code and starts in the create_path function
